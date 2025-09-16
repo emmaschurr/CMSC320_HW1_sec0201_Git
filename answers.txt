@@ -1,0 +1,3 @@
+Q1: Why might we consider using Git?
+
+Answer: It makes it easy to edit and save code then submit it to Gradescope.
