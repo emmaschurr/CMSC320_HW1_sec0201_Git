@@ -11,3 +11,7 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merge combines the changes from a document into 1. 
 Rebasing applies commits from the source branch onto the target branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning lots in my classes and making new friends.
